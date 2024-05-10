@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "abc",
+    "   ",
+    "def"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:golden_shovel"
+    },
+    "b": {
+      "item": "minecraft:diamond_shovel"
+    },
+    "c": {
+      "item": "minecraft:netherite_shovel"
+    },
+    "d": {
+      "item": "minecraft:wooden_shovel"
+    },
+    "e": {
+      "item": "minecraft:stone_shovel"
+    },
+    "f": {
+      "item": "minecraft:iron_shovel"
+    }
+  },
+  "result": {
+    "id": "zach_adds:shovel",
+    "count": 1
+  }
+}
